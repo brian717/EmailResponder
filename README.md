@@ -1,7 +1,8 @@
 # EmailResponder
-Auto-responder for gmail. Polls for new messages with a given string in the subject and replies with a given message.
+Auto-responder for gmail. Polls for new messages with a given string in the subject and replies with a given message. 
+NOTE: You must have imap / smtp (gmail's taken to calling these "less secure methods") enabled in gmail. 
 
-Usage: python emailResponder.py responder_config.json
+usage: python emailResponder.py responder_config.json
 
 The config file is in json and should be self-explanatory (field values are named in a way that should explain what they are). 
 
