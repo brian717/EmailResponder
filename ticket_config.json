@@ -1,0 +1,9 @@
+{
+	"username": "myEmail@gmail.com", 
+	"password": "C00LP@SSW0RDBR0",
+	"searchString": "String to search for in subject...",
+	"name": "First Last",
+	"fromEmail": "emailIOwn@gmail.com",
+	"responseMessage": "Body of the response email",
+	"notificationEmail": "notifyMeAtThisEmail@gmail.com"
+}
